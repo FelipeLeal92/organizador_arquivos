@@ -15,11 +15,12 @@ Este projeto tem como objetivo organizar automaticamente os arquivos de um diret
 
 ```
 📁 organizador/
-├── organizador.py         # Lógica principal do organizador
-├── notificacoes.py        # Envio de mensagens para o Telegram
-├── logs.py                # Configuração de log
-├── Logs/                  # Arquivos de log gerados por data
-└── README.md              # Instruções e documentação do projeto
+├── organizador.py               # Lógica principal do organizador
+├── organizador_automatico.py    # Para integrar ao Agendador de tarefas Windows
+├── notificacoes.py              # Envio de mensagens para o Telegram
+├── logs.py                      # Configuração de log
+├── Logs/                        # Arquivos de log gerados por data
+└── README.md                    # Instruções e documentação do projeto
 ```
 
 ## Como Usar
